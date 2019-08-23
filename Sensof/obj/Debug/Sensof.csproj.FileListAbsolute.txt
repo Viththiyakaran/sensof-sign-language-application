@@ -1,0 +1,17 @@
+E:\C# - Project\Sensof\Sensof\bin\Debug\Sensof.exe.config
+E:\C# - Project\Sensof\Sensof\bin\Debug\Sensof.exe
+E:\C# - Project\Sensof\Sensof\bin\Debug\Sensof.pdb
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.home.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.Properties.Resources.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.csproj.GenerateResource.Cache
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.exe
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.pdb
+E:\C# - Project\Sensof\Sensof\bin\Debug\Bunifu_UI_v1.4.dll
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.textprct.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.Splash_screen.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.settings.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.csprojResolveAssemblyReference.cache
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.develop.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.challenge.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.challenge_over.resources
+E:\C# - Project\Sensof\Sensof\obj\Debug\Sensof.Form1.resources
