@@ -6,7 +6,7 @@ blind etc. So these people get difficult to communicate with other normal people
 people also get  difficulties  to communicate  with  disable people.  Because normal  people don’t 
 know their symbols or sign language. In this period of time, this is a big problem in the world. 
 
-
+## Our solution
 This  “SENSNOF”  is an one and only solution for the communication  problem between normal  people and disable people. By this normal people can learn sign language  easily.  Then they can  communicate disable people. 
 
 
