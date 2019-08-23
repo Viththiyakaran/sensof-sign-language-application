@@ -3,7 +3,7 @@ This  “SENSNOF”  is an one and only solution for the communication  problem 
 
 
 # Methodologies
-- 1.  C#
-- 2.  MSSQL
-- 3.  Photoshop 
-- 4.  Bunifu Framework
+1.  C#
+2.  MSSQL
+3.  Photoshop 
+4.  Bunifu Framework
