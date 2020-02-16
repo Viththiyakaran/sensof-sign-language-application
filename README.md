@@ -15,3 +15,8 @@ This  “SENSNOF”  is an one and only solution for the communication  problem 
 2.  MSSQL
 3.  Photoshop 
 4.  Bunifu Framework
+
+## First Action
+1.Create Database into MySQL as sensof
+2.Import sensof.sql
+3.Enjoy
